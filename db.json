@@ -4,7 +4,9 @@
       "id": 1,
       "text": "Cool stuff",
       "gameId": 5084,
-      "userName": "John"
+      "userId": 1,
+      "date": "10-25-2023"
     }
-  ]
+  ],
+  "users": [{ "id": 1, "password": "1234", "userName": "John" }]
 }
