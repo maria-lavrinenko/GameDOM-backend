@@ -6,7 +6,24 @@
       "gameId": 25097,
       "userId": 1,
       "date": "25/10/2023, 16:35:43"
+    },
+    {
+      "id": 2,
+      "text": "Cool stuff",
+      "gameId": 5084,
+      "userId": 1,
+      "date": "20/10/2023, 10:45:43"
+    },
+    {
+      "id": 3,
+      "text": "Meh",
+      "gameId": 25097,
+      "userId": 2,
+      "date": "26/10/2023, 09:54:23"
     }
   ],
-  "users": [{ "id": 1, "password": "1234", "userName": "John" }]
+  "users": [
+    { "id": 1, "password": "1234", "userName": "John" },
+    { "id": 2, "password": "1234", "userName": "Andrea" }
+  ]
 }
